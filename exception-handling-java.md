@@ -7,3 +7,4 @@ exception in java
 1. Divide by Zero
 2. Array index out of bounds
 3. NullPointerException
+4. Invalid Data Type
